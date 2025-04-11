@@ -19,6 +19,7 @@ As LLMs become increasingly integrated into how users discover and interact with
 - SEO for LLM discoverability of your product (AI as search engines, also known as Answer Engine Optimization)
   - [Profound tool](https://www.tryprofound.com/)
 - Semantic HTML and structured data for LLM comprehension
+  - [Firecrawl](https://www.firecrawl.dev/)
 - Information hierarchy optimization for LLM parsing
 - Accessibility considerations that benefit both humans and AI
 
