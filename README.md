@@ -16,7 +16,8 @@ As LLMs become increasingly integrated into how users discover and interact with
 - Practical tips for maintaining user-centric experiences while optimizing for LLM comprehension
 
 ### 🗺️ Discoverability & Information Architecture
-- SEO for LLMs discoverability (AI as search engines)
+- SEO for LLM discoverability of your product (AI as search engines, also known as Answer Engine Optimization)
+  - [Profound tool](https://www.tryprofound.com/)
 - Semantic HTML and structured data for LLM comprehension
 - Information hierarchy optimization for LLM parsing
 - Accessibility considerations that benefit both humans and AI
