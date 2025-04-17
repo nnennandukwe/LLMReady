@@ -34,6 +34,7 @@ As LLMs become increasingly integrated into how users discover and interact with
 - Schema designs that help agents understand your services
 - Versioning approaches for evolving agent interactions
 - Templates and examples of effective documentation for AI consumption
+  - [Site-to-text tool for LLM consumption](https://llmstxt.org)
 
 ### 🔄 Content Transformation & Preprocessing
 - Site transformation tools
