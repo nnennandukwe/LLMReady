@@ -56,6 +56,7 @@ As LLMs become increasingly integrated into how users discover and interact with
 
 ### 📊 Case Studies & Implementation Examples
 - Real-world examples of agent-first design (AX)
+  - [Docker Docs -> Page options dropdown -> view page as Markdown or plain text](https://docs.docker.com/get-started/docker-overview/)
 - Before/after transformations of existing systems
 - Performance metrics and outcomes
 - Lessons learned from pioneering teams
