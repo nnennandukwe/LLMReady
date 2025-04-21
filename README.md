@@ -30,14 +30,15 @@ As LLMs become increasingly integrated into how users discover and interact with
 - Best practices for designing APIs that are easily understood by language models
 
 ### 📖 Documentation Engineering
-- LLM-readable documentation strategies
+- LLM-readable documentation strategies/tools
 - Schema designs that help agents understand your services
 - Versioning approaches for evolving agent interactions
 - Templates and examples of effective documentation for AI consumption
-  - [Site-to-text tool for LLM consumption](https://llmstxt.org)
 
 ### 🔄 Content Transformation & Preprocessing
 - Site transformation tools
+  - [Site-to-text tool for LLM consumption](https://llmstxt.org)
+  - [Microsoft MarkItDown](https://github.com/microsoft/markitdown)
 - Content chunking strategies for optimal agent consumption
 - Techniques for making legacy content LLM-accessible
 - Practical workflows for maintaining content across human and AI interfaces
